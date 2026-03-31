@@ -1,0 +1,51 @@
+Property_ID,Heat_Primary_Source,House_SAP,House_Type,Tenure,Heat_Secondary_Source
+EOH1765,Electric - Storage,C,Flat,Rented (Social),Electric - Storage
+EOH1310,Gas Boiler - Standard,,House,Owner-Occupied,None
+EOH2969,Electric - Storage,,Flat,Rented (Social),None
+EOH1108,Gas Boiler - Combi,D,House,Owner-Occupied,None
+EOH0524,Electric - Direct,F,House,Rented (Social),None
+EOH0559,Gas Boiler - Standard,C,House,Owner-Occupied,None
+EOH2699,Electric - Storage,,House,Owner-Occupied,None
+EOH0653,Electric - Storage,C,Flat,Rented (Social),Electric - Storage
+EOH3177,Electric - Storage,,House,Owner-Occupied,None
+EOH0769,Electric - Direct,C,House,Owner-Occupied,None
+EOH2516,Electric - Storage,E,House,Owner-Occupied,Electric - Direct
+EOH2133,Electric - Storage,D,Flat,Rented (Social),None
+EOH2959,Electric - Storage,D,Flat,Rented (Social),Electric - Storage
+EOH2943,Gas Boiler - Combi,D,House,Owner-Occupied,None
+EOH0425,Gas Boiler - Standard,,House,Owner-Occupied,None
+EOH2143,Electric - Warm air,,House,Owner-Occupied,None
+EOH2212,Electric - Direct,E,House,Rented (Social),None
+EOH0358,Gas Boiler - Combi,,House,Owner-Occupied,None
+EOH1279,Electric - Storage,D,House,Rented (Social),Electric - Direct
+EOH0443,Electric - Storage,,Flat,Rented (Social),None
+EOH2657,Electric - Storage,D,House,Owner-Occupied,None
+EOH1136,Electric - Storage,D,House,Rented (Social),Electric - Direct
+EOH1064,Gas Boiler - Standard,D,House,Owner-Occupied,None
+EOH2508,Gas Boiler - Standard,,House,Owner-Occupied,None
+EOH2411,Electric - Direct,F,House,Owner-Occupied,None
+EOH2484,Electric - Direct,F,House,Rented (Social),None
+EOH0482,Gas Boiler - Combi,C,House,Owner-Occupied,Fire - Gas
+EOH1166,Electric - Storage,D,House,Rented (Social),Electric - Direct
+EOH0490,Gas Boiler - Combi,C,House,Owner-Occupied,None
+EOH2372,Electric - Storage,,Flat,Rented (Social),None
+EOH2116,Electric - Storage,,Flat,Rented (Social),None
+EOH3143,Gas Boiler - Combi,B,House,Owner-Occupied,None
+EOH0015,Electric - Direct,F,House,Rented (Social),Electric - Direct
+EOH0356,Gas Boiler - Standard,,House,Owner-Occupied,
+EOH2482,Electric - Direct,F,House,Rented (Social),Fire - Coal
+EOH2409,Electric - Storage,D,House,Rented (Social),Electric - Direct
+EOH0352,Electric - Storage,C,House,Owner-Occupied,None
+EOH2674,Gas Boiler - Combi,C,Maisonette,Owner-Occupied,None
+EOH0230,Electric - Storage,D,House,Rented (Social),Electric - Direct
+EOH3036,Electric - Storage,C,House,Rented (Social),Electric - Direct
+EOH1464,Gas Boiler - Combi,,House,Owner-Occupied,Fire - Gas
+EOH1318,Gas Boiler - Standard,C,House,Owner-Occupied,None
+EOH3082,Gas Boiler - Standard,C,House,Owner-Occupied,Fire - Electric
+EOH2609,Gas Boiler - Combi,C,House,Owner-Occupied,None
+EOH1517,Gas Boiler - Combi,,House,Owner-Occupied,
+EOH1594,Electric - Storage,E,House,Rented (Private),None
+EOH0451,Electric - Storage,,Flat,Rented (Social),None
+EOH1722,Gas Boiler - Combi,C,House,Owner-Occupied,None
+EOH2335,Gas Boiler - Standard,,House,Owner-Occupied,None
+EOH0681,Electric - Direct,E,Flat,Rented (Social),None

@@ -1,0 +1,3 @@
+﻿dataset_id,model,metric,value
+B6QPZRFECK,degree_days,embedded_sample_rows,4000
+B6QPZRFECK,degree_days,summary,Heating/cooling degree-day metrics require outdoor temperature series; placeholder row for handoff.

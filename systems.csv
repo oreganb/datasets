@@ -1,0 +1,11 @@
+﻿building_id,main_heating_system,main_heating_fuel,main_heating_efficiency,heat_pump_type,heat_pump_cop_nominal,hot_water_system_type,hot_water_efficiency,distribution_system_type,emitters_type,controls_quality,has_secondary_heating,secondary_heating_type,secondary_heating_fuel,ventilation_type,mvhr_present,cooling_present,cooling_type,pv_present,pv_capacity_kw,pv_orientation,pv_tilt,battery_present,battery_capacity_kwh,battery_roundtrip_efficiency,smart_meter_present,ev_present,ev_charger_present,solar_thermal_present,solar_thermal_collector_area_m2
+C3LGTAWGBN,storage_heaters,electricity,0.992,,,combi,0.926,radiators,radiators,smart,1,open_fireplace,electricity,mvhr,1,0,,0,0,,,0,0,,0,0,0,0,0
+IMGEKIOURO,gas_boiler,natural_gas,0.915,,,cylinder_vented,0.923,radiators,radiators,programmable,1,pellet_stove,solid_biomass,natural_ventilation,0,0,,0,0,,,0,0,,1,0,0,0,0
+KYAP79ALIQ,oil_boiler,oil,0.93,,,combi,0.945,underfloor,radiators,basic,0,none,,natural_ventilation,0,0,,0,0,,,0,0,,0,0,0,0,0
+6IUBDPJWAN,electric_resistance,electricity,0.965,,,cylinder_vented,0.948,radiators,radiators,basic,1,open_fireplace,electricity,mvhr,1,0,,0,0,,,0,0,,1,0,0,0,0
+FUH2LNCVZI,storage_heaters,electricity,0.993,,,combi,0.88,radiators,radiators,programmable,0,none,,mechanical_extract,0,0,,0,0,,,0,0,,0,0,0,0,0
+4MLZF6MOOX,electric_resistance,electricity,0.972,,,combi,0.889,fan_coil,radiators,smart,0,none,,demand_controlled_ventilation,0,0,,0,0,,,0,0,,0,0,0,0,0
+0RBHHEWULJ,gas_boiler,natural_gas,0.889,,,cylinder_unvented,0.822,radiators,radiators,smart,0,none,,natural_ventilation,0,0,,0,0,,,0,0,,0,0,0,0,0
+4VL7OGAU7B,solid_fuel_boiler,solid_biomass,0.886,,,cylinder_unvented,0.907,radiators,radiators,smart,0,none,,natural_ventilation,0,0,,0,0,,,0,0,,1,1,1,0,0
+WFYW38V6CS,oil_boiler,oil,0.917,,,cylinder_vented,0.854,radiators,radiators,basic,0,none,,natural_ventilation,0,0,,1,5.11,south_west,32,0,0,,0,0,0,0,0
+T0KQH9H5YU,storage_heaters,electricity,0.96,,,combi,0.918,radiators,radiators,smart,0,none,,natural_ventilation,0,0,,0,0,,,0,0,,0,0,0,0,0

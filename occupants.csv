@@ -1,0 +1,11 @@
+﻿building_id,household_type,num_occupants,num_adults,num_children,primary_age_band,employment_pattern,work_from_home_days_per_week,income_band,affluence_score,fuel_poverty_risk,energy_awareness_score,comfort_preference_score,tech_adoption_score,daytime_occupancy_level,heating_cost_sensitivity,window_opening_tendency,hot_water_usage_intensity,appliance_usage_intensity
+C3LGTAWGBN,family_small_children,4,2,2,35_54,mixed,3,low,2.96,0.968,2.28,2.62,1.47,0.5,0.887,0.354,1.061,1.005
+IMGEKIOURO,single_retired,1,1,0,65_plus,retired,1,upper_middle,6.86,0.179,5.87,4.91,3.68,0.39,0.392,0.481,0.737,0.723
+KYAP79ALIQ,retired_couple,2,2,0,65_plus,retired,1,low,3.33,0.729,6.11,2.84,1.58,0.41,0.792,0.33,0.818,0.966
+6IUBDPJWAN,single_retired,1,1,0,65_plus,retired,2,middle,4.87,0.345,2.42,3.71,2.5,0.43,0.518,0.192,0.853,0.886
+FUH2LNCVZI,couple_no_children,2,2,0,55_64,full_time,2,low,2.59,0.624,3.66,3.07,1.56,0.43,0.75,0.724,0.893,1.012
+4MLZF6MOOX,retired_couple,2,2,0,65_plus,retired,2,lower_middle,3.67,0.169,6.69,3.58,3.07,0.54,0.508,0.551,0.821,0.872
+0RBHHEWULJ,family_school_age_children,5,2,3,35_54,mixed,0,middle,4.97,0.317,7.6,4.34,3.38,0.26,0.507,0.629,1.171,1.193
+4VL7OGAU7B,single_retired,1,1,0,65_plus,retired,0,middle,4.81,0.306,2.3,4.11,3.2,0.38,0.502,0.774,0.882,0.937
+WFYW38V6CS,retired_couple,2,2,0,65_plus,retired,1,lower_middle,4.11,0.266,4.65,4.17,2.62,0.4,0.546,0.819,0.867,0.979
+T0KQH9H5YU,retired_couple,2,2,0,65_plus,retired,0,low,3.14,0.592,7.43,2.99,1.81,0.36,0.737,0.603,0.838,1.042
